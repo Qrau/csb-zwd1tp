@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://omardieh.github.io/csb-zwd1tp/static/css/main.726d8270.chunk.css",
+    "main.js": "https://omardieh.github.io/csb-zwd1tp/static/js/main.ace79e31.chunk.js",
+    "main.js.map": "https://omardieh.github.io/csb-zwd1tp/static/js/main.ace79e31.chunk.js.map",
+    "runtime-main.js": "https://omardieh.github.io/csb-zwd1tp/static/js/runtime-main.a1df728c.js",
+    "runtime-main.js.map": "https://omardieh.github.io/csb-zwd1tp/static/js/runtime-main.a1df728c.js.map",
+    "static/js/2.d59d8eec.chunk.js": "https://omardieh.github.io/csb-zwd1tp/static/js/2.d59d8eec.chunk.js",
+    "static/js/2.d59d8eec.chunk.js.map": "https://omardieh.github.io/csb-zwd1tp/static/js/2.d59d8eec.chunk.js.map",
+    "index.html": "https://omardieh.github.io/csb-zwd1tp/index.html",
+    "static/css/main.726d8270.chunk.css.map": "https://omardieh.github.io/csb-zwd1tp/static/css/main.726d8270.chunk.css.map",
+    "static/js/2.d59d8eec.chunk.js.LICENSE.txt": "https://omardieh.github.io/csb-zwd1tp/static/js/2.d59d8eec.chunk.js.LICENSE.txt",
+    "static/media/avatar-placeholder.331b27eb.png": "https://omardieh.github.io/csb-zwd1tp/static/media/avatar-placeholder.331b27eb.png",
+    "static/media/nia-logo.0361c655.png": "https://omardieh.github.io/csb-zwd1tp/static/media/nia-logo.0361c655.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1df728c.js",
+    "static/js/2.d59d8eec.chunk.js",
+    "static/css/main.726d8270.chunk.css",
+    "static/js/main.ace79e31.chunk.js"
+  ]
+}
